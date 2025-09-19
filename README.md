@@ -184,7 +184,6 @@ Les logs sont affichés directement dans la console avec :
 ### Données DVF
 - **Délai** : 6 mois de décalage vs transactions réelles
 - **Scope** : Uniquement ventes (pas de locations)
-- **Exclusions** : Ventes entre particuliers, donations, successions
 
 ### Géolocalisation
 - **Précision** : Dépend de la qualité OSM locale
@@ -205,13 +204,6 @@ geospotlight/
 └── README.md         # Cette documentation
 ```
 
-### Contribution
-1. Fork du projet
-2. Branche feature : `git checkout -b feature/nouvelle-fonctionnalite`
-3. Commit : `git commit -am 'Ajout nouvelle fonctionnalité'`
-4. Push : `git push origin feature/nouvelle-fonctionnalite`
-5. Pull Request
-
 ## 📄 Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
@@ -224,5 +216,3 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 - **Communauté Python** pour les librairies
 
 ---
-
-**⭐ Si ce projet vous aide, n'hésitez pas à lui donner une étoile !**
