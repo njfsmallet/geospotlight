@@ -212,32 +212,6 @@ geospotlight/
 4. Push : `git push origin feature/nouvelle-fonctionnalite`
 5. Pull Request
 
-## 📈 Roadmap
-
-### Version 2.1 (Q1 2024)
-- [ ] Support des données de location (API SeLoger)
-- [ ] Export PDF/Excel des analyses
-- [ ] API REST pour intégration
-- [ ] Dashboard web interactif
-
-### Version 2.2 (Q2 2024)
-- [ ] Machine Learning pour prédictions prix
-- [ ] Alertes automatiques sur critères
-- [ ] Intégration cadastre (parcelles)
-- [ ] Support multi-villes simultané
-
-## 🐛 Support et bugs
-
-- **Issues** : [Créer un ticket](repository-url/issues)
-- **Documentation** : [Wiki du projet](repository-url/wiki)
-- **Contact** : `support@geospotlight.fr`
-
-## 👥 Équipe
-
-- **Lead Developer** : [@username](github-profile)
-- **Data Analyst** : [@username](github-profile)
-- **Product Owner** : [@username](github-profile)
-
 ## 📄 Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
@@ -252,5 +226,3 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 ---
 
 **⭐ Si ce projet vous aide, n'hésitez pas à lui donner une étoile !**
-
-*Dernière mise à jour : Janvier 2024*
